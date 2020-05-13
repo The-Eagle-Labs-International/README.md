@@ -1,6 +1,6 @@
-# THE EAGLE LABS International - Hacking Framework
+# THE EAGLE LABS International - Eagle Hacking Framework
 ```
-• Codename: TELI HACKING FRAMEWORK
+• Codename: Eagle Hacking Framework
 • Email: info @ theeaglelabs . com
 • Official Website: https://github.com/The-Eagle-Labs-International
 ```
