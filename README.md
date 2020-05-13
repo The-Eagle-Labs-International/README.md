@@ -1,10 +1,10 @@
-# THE EAGLE LABS International - Eagle Hacking Framework
+# THE EAGLE LABS Penetration Testing Framework
 ```
-• Codename: Eagle Hacking Framework
+• Codename: THE EAGLE LABS Penetration Testing Framework
 • Email: info @ theeaglelabs . com
 • Official Website: https://github.com/The-Eagle-Labs-International
 ```
-###### Hacking Framework focused on gathering information from free tools, proprietary tools or resources. The intention is to help people find hacking resources.
+###### THE EAGLE LABS Penetration Testing Framework focused on gathering information from free tools, proprietary tools or resources. The intention is to help people find hacking resources.
 #####  Project Owner
 ###### •	DiegoExploit                  https://github.com/diegoexploit/AboutMe
 ##### Colaborators
